@@ -5,3 +5,5 @@
 [Анализ требований](docs/RequirementAnalysis.md)
 
 [Структура проекта](docs/ProjectStruct.md)
+
+[Моделирование поведения](docs/BehaviourModeling.md)
